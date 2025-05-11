@@ -1,7 +1,12 @@
 src/
 __tests__/
 src/__tests__/
+src/__tests__/*
 test/
+demo
+demo/*
+example
+example/*
 rollup.config.js
 tsconfig.json
 jest.config.js
@@ -10,6 +15,7 @@ jest.config.js
 *.spec.tsx
 *.spec.ts
 *.map
+node_modules
 node_modules/
 .vscode/
 .gitignore
